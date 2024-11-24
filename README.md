@@ -1,6 +1,6 @@
 # AnomixHub
 
-This script is under the [ANTI-SKID](https://raw.githubusercontent.com/RobloxScripts00/AnomixHub/refs/heads/main/Anti%20Skid%20License)) License, Please read before using it.
+This script is under the [Anti-Skid License](https://raw.githubusercontent.com/RobloxScripts00/AnomixHub/refs/heads/main/Anti%20Skid%20License), Please read before using it.
 
 
 AnomixHub is a work-in-progress script hub that offers various features for enhancing your experience in Roblox games. Currently, the hub includes:
