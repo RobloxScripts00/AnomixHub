@@ -1,8 +1,6 @@
 # AnomixHub
 
-This script is under the [Anti-Skid License](https://raw.githubusercontent.com/RobloxScripts00/AnomixHub/refs/heads/main/Anti%20Skid%20License), Please read before using it.
-
-AnomixHub is a script hub, thats litteraly it.
+AnomixHub is a script hub for anomic, thats litteraly it.
 
 ## Features
 
