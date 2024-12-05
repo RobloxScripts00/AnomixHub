@@ -7,9 +7,7 @@ AnomixHub is a script hub, thats litteraly it.
 ## Features
 
 - **Teleports**
-- **Bypasses**
-- **WalkSpeed**
-- **JumpSpeed**
+- **Walkspeed Bypass**
 - **Clear Plot**
 - **Item ESP**
 
