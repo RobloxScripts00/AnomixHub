@@ -8,7 +8,7 @@ AnomixHub is a script hub for anomic, thats litteraly it.
 - **Walkspeed Bypass**
 - **Clear Plot**
 - **Item ESP**
-
+**And much more**
 ## Requirements
 
 - Roblox executor with atleast 70% UNC, Or a executor that can run obfuscated scripts.
