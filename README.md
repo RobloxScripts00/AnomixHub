@@ -5,10 +5,14 @@ AnomixHub is a script hub for anomic, thats litteraly it.
 ## Features
 
 - **Teleports**
-- **Walkspeed Bypass**
+- **Walkspeed and Jumppower Bypass**
 - **Clear Plot**
 - **Item ESP**
-**And much more**
+- **Reset Character When Wanted**
+- **Anomiss GUI**
+- **Infinite Yield Anomic**
+- **Fake anomic admin command line.
+
 ## Requirements
 
 - Roblox executor with atleast 70% UNC, Or a executor that can run obfuscated scripts.
