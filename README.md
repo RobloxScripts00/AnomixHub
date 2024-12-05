@@ -12,7 +12,7 @@ AnomixHub is a script hub, thats litteraly it.
 - **JumpSpeed**
 - **Clear Plot**
 - **Item ESP**
-- 
+
 ## Requirements
 
 - Roblox executor with atleast 70% UNC, Or a executor that can run obfuscated scripts.
