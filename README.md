@@ -11,7 +11,7 @@ AnomixHub is a script hub for anomic, thats litteraly it.
 - **Reset Character When Wanted**
 - **Anomiss GUI**
 - **Infinite Yield Anomic**
-- **Fake anomic admin command line.
+- **Fake anomic admin command line.**
 
 ## Requirements
 
