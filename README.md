@@ -1,6 +1,10 @@
+# Discontiuned ⚠
+
+after careful consideration, i will be discontinuing the script, i havent been able to update the script for a few weeks because of personal issues, i hope this does not upset anybody.
+
 # AnomixHub
 
-AnomixHub is a script hub for anomic, thats litteraly it.
+AnomixHub is a script hub for anomic.
 
 ## Features
 
